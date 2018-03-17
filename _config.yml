@@ -1,41 +1,38 @@
-# Welcome to Jekyll!
+# Permalinks
 #
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           '/:categories/:year/:month/:day/:title'
+#relative_permalinks: true
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Nishant Sharma's Blog
-email: nishant.shharma@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-Hello All! I am Nishant Sharma, a DevOps engineer by profession and a tech enthusiast. On this blog I will post my knowledge on the tools and techniques I use in my work. Also I am a gadget geek , so I will also share my personal reviews and usage of the gadgets I use.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "blog.nishantsharma.xyz" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: sharmaaaji
-github_username:  nishant-shharma
+# Setup
+title:               Nitin Nagpal
+tagline:             'Tech Adventures'
+description:         'Tech Blogs on DevOps & more'
+url:                 http://blog.nitinnagpal.me
+baseurl:             ''
+paginate:            5
+future:              true
 
-# Build settings
-markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
+# About/contact
+author:
+  name:              Nitin Nagpal
+  url:               http://nitinnagpal.me
+  email:             nitnagpal@gmail.com
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+github:
+  repo:              https://github.com/nitnagpal/nitnagpal.github.io
+
+# Pages
+pages:
+  Home: '/'
+  About: '/about'
+  Tags: '/tags'
+
+# Localization Strings
+str_continue_reading: "Continue reading..."
+
+# Custom vars
+version:             1.0.0
+
+# Gems
+plugins: [jekyll-paginate]
