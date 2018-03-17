@@ -20,7 +20,7 @@ WRONG!! DevOps is way bigger than it sounds. Although someone quite successful i
 
 DevOps actually is group of concepts that is rapidly spreading in the technical community. It is the practice of operations and development engineers participating together in the entire service lifecycle, from design through the development process to production support. In simple words it means that DevOps is a process that makes the software development and deployment process quite fast using a number of tools.
 
-In earlier days, coding and deploying a software was a gruesome and time consuming task. It started with a developer giving his/her requirements to the operations guy and wait for them to provide the perfect system to test it on. After deploying code on the system, testing was another icing on the cake because changing code and deploying it again was again a task taking huge time and efforts. Roughly speaking (or writing) , it took days after the code is written to finally get it live.
+In earlier days, coding and deploying a software was a gruesome and time consuming task. It started with a developer giving his/her requirements to the operations guy and wait for them to provide the perfect system to test it on. After deploying code on the system, testing was another icing on the cake because changing code and deploying it was again a task taking huge time and efforts. Roughly speaking (or writing) , it took days after the code is written to finally get it live.
 
 On the other hand DevOps practices made this weeklong (or sometimes month long) tasks a matter of minutes. It became quite easier to deploy a code and edit it once we found a bug. DevOps made life simpler for both developers and operations architects. 
 
