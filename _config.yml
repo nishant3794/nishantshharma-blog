@@ -6,7 +6,7 @@ permalink:           '/:categories/:year/:month/:day/:title'
 
 # Setup
 title:               Nishant Sharma
-tagline:             'Wisdom on TECH` '
+tagline:             'Wisdom on TECH '
 description:         'Tech Blogs on tools, techniques and devices I use'
 url:                 http://blog.nishantsharma.xyz
 baseurl:             ''

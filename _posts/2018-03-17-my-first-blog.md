@@ -16,9 +16,9 @@ tags: github jekyll
 
 DEVOPS, as you must already know, is a combination of two words, DEVelopment and OPerationS. So that must mean that DevOps Professional is a person who knows developing and operating, Right??
 
-WRONG!! DevOps is way bigger than it sounds. Although someone quite successful in this field recently told me it is just a fancy term. Being a DevOps engineer means that you must have knowledge about almost everything int the computer science field. We'll come to that later but now let's address the basic obvious question, WHAT IS DEVOPS!!!
+WRONG!! DevOps is way bigger than it sounds. Although someone quite successful in this field recently told me it is just a fancy term. Being a DevOps engineer means that you must have knowledge about almost everything in the computer science field. We'll come to that later but now let's address the basic obvious question, WHAT IS DEVOPS!!!
 
-DevOps actually is group of concepts that is rapidly spreading in the technical community. It is the practice of operations and development engineers participating together in the entire service lifecycle, from design through the development process to production support. In dimple words it means that DevOps is a process that makes the software development and deployment process quite fast using a number of tools.
+DevOps actually is group of concepts that is rapidly spreading in the technical community. It is the practice of operations and development engineers participating together in the entire service lifecycle, from design through the development process to production support. In simple words it means that DevOps is a process that makes the software development and deployment process quite fast using a number of tools.
 
 In earlier days, coding and deploying a software was a gruesome and time consuming task. It started with a developer giving his/her requirements to the operations guy and wait for them to provide the perfect system to test it on. After deploying code on the system, testing was another icing on the cake because changing code and deploying it again was again a task taking huge time and efforts. Roughly speaking (or writing) , it took days after the code is written to finally get it live.
 
