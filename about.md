@@ -4,5 +4,6 @@ title: About
 ---
 
 <p class="message">
-  Hey there! My Name is Nitin Nagpal. I am a DevOps Engineer by profession. I created this blog to share my knowledge and experiences from my day to day devops work.<br><br>I have a total of 6 Years of professional experience and hold multiple cloud & devops related certifications like Google Certified Cloud Architect, All 5 AWS Certifications, Docker Certified Associate etc.
+Hello All!! I am Nishant Sharma, a DevOps enginner by profession and a tech addict by nature. This blog is intended to share my knowledge about tools and techniques I use. <br><br> 
+I am also a gadget lover and will share my review on the gadjets I could lay my hands on. Feel free to dive into it. :)
 </p>

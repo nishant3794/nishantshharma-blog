@@ -5,22 +5,22 @@ permalink:           '/:categories/:year/:month/:day/:title'
 #relative_permalinks: true
 
 # Setup
-title:               Nitin Nagpal
-tagline:             'Tech Adventures'
-description:         'Tech Blogs on DevOps & more'
-url:                 http://blog.nitinnagpal.me
+title:               Nishant Sharma
+tagline:             'Wisdom on TECH` '
+description:         'Tech Blogs on tools, techniques and devices I use'
+url:                 http://blog.nishantsharma.xyz
 baseurl:             ''
 paginate:            5
 future:              true
 
 # About/contact
 author:
-  name:              Nitin Nagpal
-  url:               http://nitinnagpal.me
-  email:             nitnagpal@gmail.com
+  name:              Nishant Sharma
+  url:               http://nishantsharma.xyz
+  email:             nishant.shharma@gmail.com
 
 github:
-  repo:              https://github.com/nitnagpal/nitnagpal.github.io
+  repo:              https://github.com/nishantshharma/nishantshharma.github.io
 
 # Pages
 pages:
