@@ -24,9 +24,9 @@ github:
 
 # Pages
 pages:
-  Home: '/'
-  About: '/about'
-  Tags: '/tags'
+  Home: '/blog'
+  About: '/blog/about'
+  Tags: '/blog/tags'
 
 # Localization Strings
 str_continue_reading: "Continue reading..."
