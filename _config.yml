@@ -8,7 +8,7 @@ permalink:           '/:categories/:year/:month/:day/:title'
 title:               Nishant Sharma
 tagline:             'Wisdom on TECH '
 description:         'Tech Blogs on tools, techniques and devices I use'
-url:                 http://blog.nishantsharma.xyz
+url:                 http://nishantsharma.tech/blog
 baseurl:             ''
 paginate:            5
 future:              true
@@ -16,11 +16,11 @@ future:              true
 # About/contact
 author:
   name:              Nishant Sharma
-  url:               http://nishantsharma.xyz
+  url:               http://nishantsharma.tech
   email:             nishant.shharma@gmail.com
 
 github:
-  repo:              https://github.com/nishantshharma/nishantshharma.github.io
+  repo:              https://github.com/nishantshharma/nishant3794.github.io
 
 # Pages
 pages:
